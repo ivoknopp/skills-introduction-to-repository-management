@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ivoknopp
+/src/backend/database.py      @ivoknopp
+/src/backend/routers/auth.py  @ivoknopp
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ivoknopp
