@@ -8,7 +8,7 @@ new features, this guide will help you get started. 🎉
 
 1. Clone the repository to your computer.
 2. Install Python requirements: `pip install -r requirements.txt`.
-3. Run the development server: `python src/app.py`.
+3. Run the development server: `uvicorn src.app:app --reload`.
 4. Visit http://localhost:8000 in your browser to see the website.
 
 ## Making Changes
