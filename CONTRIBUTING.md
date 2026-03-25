@@ -16,7 +16,7 @@ new features, this guide will help you get started. 🎉
 1. Create a new branch for your changes.
    - Use descriptive names like `art-gallery-feature` or `fix-chess-signup`
 2. Make your changes and test them locally with sample student data.
-   - Use the MongoDB extension to preview the included sample date.
+   - Use the MongoDB extension to preview the included sample data.
 3. Push your branch and create a pull request.
 4. Wait for review and address any feedback.
 
